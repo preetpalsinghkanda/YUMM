@@ -26,7 +26,6 @@ function Navbar() {
         YUMM
       </a>
 
-      {/* Navigation Actions & Dropdown */}
       <div className="relative flex items-center gap-4">
         {/* Burgers CTA Button (Black Slide Fill Animation) */}
         <a
